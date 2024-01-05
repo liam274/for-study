@@ -1,0 +1,2 @@
+Term 2 Spelling check 1
+['abroad', 'advantage', 'although', 'artist', 'assignment', 'bacteria', 'barber', 'branch', 'bubble', 'buffet', 'camel', 'chore', 'customer', 'degree', 'diet', 'differ', 'dim', 'dining room', 'elbow', 'except']

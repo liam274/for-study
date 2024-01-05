@@ -1,0 +1,9 @@
+main.py
+sever.py
+typing.mp3
+README.md
+upgrade show.txt
+xp.txt
+files.txt
+level.txt
+memory_money.txt
